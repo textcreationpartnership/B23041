@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the benefit of the new hospital, to be erected in Dublin, by authority of their excellencies the Lords Justices of Ireland.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23041</idno><idno type="EEBO-CITATION">99888920</idno>
+  <idno type="VID">196052</idno>
+  <idno type="EEBO-PROQUEST">2240903433</idno>
+  
+            <idno type="STC">Wing F1430B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32.[61]</idno>
+            <idno type="STC">ESTC R232521</idno>
+            <idno type="PROQUEST">ocm99888920</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888920e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196052)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[60])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the benefit of the new hospital, to be erected in Dublin, by authority of their excellencies the Lords Justices of Ireland.</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Imperfect: cropped, faded and stained at head of page 2, affecting text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Charities --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:196052:1"/>
+            <head>For the benefit of the <hi>New Hospital,</hi> to be erected in <hi>Dublin.</hi> By Authority of their Excellencies the Lords Justices of <hi>Ireland.</hi>
+            </head>
+            <p>TO be drawn in the City of <hi>Dublin</hi> for 25000 <hi>l.</hi> according to the following Table, and to be performed with Balls after the manner of the <hi>Greenwich</hi> Adventure, which was adjudged by all to be the best method that ever was used to prevent fraud or deceit in the managers thereof, and gave the greatest satisfaction to all the Adven<g ref="char:EOLhyphen"/>turers.</p>
+            <p>By the encouragement it has hitherto met with, there is no reason to doubt its being drawn; full in <hi>December</hi> next without further delay.</p>
+            <p>The Undertaker hopes that no Adventurer will be discouraged, because it is to be drawn in <hi>Ireland</hi> for if it be objected, that the Undertaking being performed there, they cannot see it drawn, and the Trustees being strangers to them, they may doubt the fairness of the performance, and whether they may receive their Prizes, if so fortunate to get any. To obviate which, 'tis answered, That the Trustees are so well known by most Merchants in the 3 Kingdoms, to be persons of great Estates, and unquestionable Honour and Integrity, that there is no room to doubt their justice, nor have the <hi>English</hi> Adventurers so much reason to question its being done in <hi>Ireland,</hi> as the <hi>Dutch,</hi> the <hi>French,</hi> and other Foreigners, had those in <hi>England,</hi> who freely remitted great Summs to be adventured in that for <hi>Greenwich</hi> Hospital, and are now the greatest Adventurers in this, without questioning the credit of the Undertakers, or the fairness of the management; and 'tis certain, <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Adventurer in an hundred, was ever present at the drawing of <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in <hi>England,</hi> but depended on the justice of the Trustees.</p>
+            <p>They have, for further satisfaction, empowred one of the Undertakers of the <hi>Greenwich</hi> Adven<g ref="char:EOLhyphen"/>ture, to deposit such money as shall be received there, in the Bank of <hi>England,</hi> to answer the payment of their Prizes in <hi>English</hi> Money, who will also be present at the drawing thereof, in behalf of the <hi>English</hi> Adventurers, and will take care to send over corrected Lists in print of every days drawing, to be published in <hi>London▪</hi> and engages to see the Prizes punctually paid at the Bank▪ as those were in the said <hi>Greenwich</hi> Adventure.</p>
+            <p>There being therefore no reason left to doubt of justice, all persons are desired to be expeditious in taking <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut the remainder of the Tickets, that the drawing may be effected accordingly.</p>
+            <p>Such as are willing to subscribe, may enter their Subscription▪ at the Undertakers Office, at <hi>Mercers Chappel</hi> Porch <hi>Cheapside,</hi> near the Bank at Mr <hi>Harrisons</hi> Goldsmith in <hi>Cheapside,</hi> and at Mr <hi>Puckles,</hi> Notary Publick it <hi>Popes Head Alley</hi> in <hi>Cornhil,</hi> paying down only 2 <hi>s.</hi> in the pound, and keeping the rest in hand, till notice be given in the publick Papers of Drawing.</p>
+            <p>And for the convenience of all those that are so desirous to Adventure in Partnership, a certain quantity o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Stock of Tickets that remain uncut are divided as following, <hi>viz</hi> Every 5 s. Ticket con<g ref="char:EOLhyphen"/>tained in the said quantity, is divided into 5 equal parts, which are made into small Tickets at 1 s. each. So that every one that takes out a single 1 s. Ticket, is entituled to a 5th part of the benefit that arises with the 5 s. Ticket, from which it was cut, as appears plainly by the Books of Tickets so divided as aforesaid, by which the advantage to each Adventurer is; That by taking out 10 sin<g ref="char:EOLhyphen"/>gle 1 s. Tickets. out of 10 several 5 <hi>s.</hi> Tickets he has a 5th share in all the benefits that arise in the said ten several 5 s. Tickets from which they were cut.</p>
+            <p>
+               <hi>Note,</hi> That every Receiver is accountable to the Adventurers, for what Money he receives, till they pay the money into the Bank of <hi>England.</hi>
+            </p>
+            <pb facs="tcp:196052:2"/>
+            <p>
+               <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <figure>
+                  <figDesc>harp</figDesc>
+               </figure>
+               <table>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4 At</cell>
+                     <cell>200</cell>
+                     <cell> </cell>
+                     <cell>800</cell>
+                  </row>
+                  <row>
+                     <cell>10 At</cell>
+                     <cell>100</cell>
+                     <cell> </cell>
+                     <cell>1000</cell>
+                  </row>
+                  <row>
+                     <cell>20 At</cell>
+                     <cell>50</cell>
+                     <cell>Each</cell>
+                     <cell>1000</cell>
+                  </row>
+                  <row>
+                     <cell>20 At</cell>
+                     <cell>40</cell>
+                     <cell> </cell>
+                     <cell>800</cell>
+                  </row>
+                  <row>
+                     <cell>20 At</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>20 At</cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                     <cell>400</cell>
+                  </row>
+                  <row>
+                     <cell>200 At</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>2000</cell>
+                  </row>
+                  <row>
+                     <cell>200 At</cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell>1000</cell>
+                  </row>
+                  <row>
+                     <cell>200 At</cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                     <cell>800</cell>
+                  </row>
+                  <row>
+                     <cell>300 At</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell>900</cell>
+                  </row>
+                  <row>
+                     <cell>350 At</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell>700</cell>
+                  </row>
+                  <row>
+                     <cell>4700 At</cell>
+                     <cell>1</cell>
+                     <cell> </cell>
+                     <cell>4700</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>umber of the Prizes</cell>
+                     <cell>6060</cell>
+                     <cell>Value</cell>
+                     <cell>25000</cell>
+                  </row>
+               </table>
+               <figure>
+                  <figDesc>harp</figDesc>
+               </figure>
+            </p>
+            <p>Tickets at 5 <hi>s.</hi> and smaller Tickets at 1 <hi>s.</hi> each may be had at most Goldsmiths and Coffee Houses in the City of <hi>Dublin,</hi> and at the following places in <hi>England.</hi>
+            </p>
+            <list>
+               <head>RECEIVERS.</head>
+               <item>At the Undertakers Office at <hi>Mercers Chappel</hi> Porch <hi>Cheapside,</hi> near the Bank of <hi>England.</hi>
+               </item>
+               <item>Mr <hi>Edward Harrison,</hi> Goldsmith in <hi>Cheapside.</hi>
+               </item>
+               <item>Mr <hi>Pinfold</hi> Goldsmith in <hi>Lombardstreet.</hi>
+               </item>
+               <item>Mr <hi>Fordham,</hi> Goldsmith in <hi>Lombardstreet.</hi>
+               </item>
+               <item>Mr <hi>Cowper</hi> Goldsmith against the <hi>Maypole, Strand.</hi>
+               </item>
+               <item>Mr <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> Goldsmith in the <hi>Strand.</hi>
+               </item>
+               <item>Mr <hi>Keat</hi> Goldsm▪ at the Unicorn <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the <hi>Strand</hi>
+               </item>
+               <item>Mr <hi>Bullock</hi> Goldsmith in <hi>Cheapside.</hi>
+               </item>
+               <item>Mr <hi>Reynolds</hi> Goldsmith in <hi>Fleeestreet.</hi>
+               </item>
+               <item>Capt. <hi>Jenkins</hi> Goldsmith in <hi>Essexstreet</hi>
+               </item>
+               <item>Mr <hi>Hickin</hi> Goldsmith against <hi>Grays Inn Holbourn</hi>
+               </item>
+               <item>Mr <hi>Underwood</hi> Golds▪ at <hi>Fetterlane</hi> end in <hi>Holbourn</hi>
+               </item>
+               <item>Mr <hi>Lloyd</hi> Golds. next to the Globe Tavern <hi>Hat<g ref="char:EOLhyphen"/>ton Garden.</hi>
+               </item>
+               <item>Mr <hi>Lyon,</hi> Goldsmith near the Playhouse <hi>Lincolns Inn Fields.</hi>
+               </item>
+               <item>Mr <hi>Pounton,</hi> Goldsmith in <hi>Long A<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi>
+               </item>
+               <item>Mr <hi>Catterall</hi> Golds. in <hi>Russelstreet, <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Garden</hi>
+               </item>
+               <item>Mr <hi>Clements</hi> Goldsmith in <hi>Newgatestreet.</hi>
+               </item>
+               <item>Mr <hi>Elms</hi> Goldsmith in <hi>Newgatestreet.</hi>
+               </item>
+               <item>Mr <hi>Yarner</hi> Goldsmith in <hi>Newgatestreet.</hi>
+               </item>
+               <item>Mr <hi>Roberts,</hi> Goldsmith in <hi>Newgatestreer.</hi>
+               </item>
+               <item>Mr <hi>De Caine</hi> Goldsmith in <hi>Bishopsgatestreet</hi>
+               </item>
+               <item>Mr <hi>Wilcocks</hi> Goldsmith near <hi>Bishopsgate</hi>
+               </item>
+               <item>Mr <hi>Grant</hi> Goldsmith St <hi>Margaret Hill Southwark</hi>
+               </item>
+               <item>Mr <hi>Rich. Parker</hi> under the the <hi>Roy. Exc.</hi> Bookseller</item>
+               <item>Mr <hi>Brown,</hi> Bookseller near <hi>Templebar.</hi>
+               </item>
+               <item>Mr <hi>Benj. Took</hi> at <hi>Temple Gate</hi> Bookseller.</item>
+               <item>Mrs <hi>Fabian</hi> in <hi>Mercers Chappel.</hi>
+               </item>
+               <item>Mr <hi>Mashbourne</hi> Mercer in <hi>Oxford.</hi>
+               </item>
+               <item>Booksellers.
+<list>
+                     <item>Mr <hi>Geo Rose</hi> in <hi>Norwich,</hi>
+                     </item>
+                     <item>Mr <hi>
+                           <gap reason="illegible" resp="#murp" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Hildyard</hi> in <hi>York,</hi>
+                     </item>
+                     <item>
+                        <gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </item>
+                  </list>
+               </item>
+               <item>Mr <hi>Rose,</hi> a Sword-cutler in <hi>Ludgate-street.</hi>
+               </item>
+               <item>Mrs <hi>Milner,</hi> a Toyshop in <hi>Popeshead Alley.</hi>
+               </item>
+               <item>Mr <hi>Trubshaw,</hi> a Caneshop in <hi>Bartholomewlane▪</hi>
+               </item>
+               <item>Mr <hi>Holcomb</hi> at the Bear Tavern, <hi>Holborn.</hi>
+               </item>
+               <item>Mr <hi>Phips</hi> Kings head Tavern <hi>Holbourn.</hi>
+               </item>
+               <item>Mr <hi>Batsons</hi> Coffee-house in <hi>Cornhil</hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>obins</hi> Coffee-house in <hi>Exchange-Alley.</hi>
+               </item>
+               <item>Mr <hi>Allen, Bri<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>s</hi> Coffee-house in <hi>Cornhil.</hi>
+               </item>
+               <item>
+                  <hi>Grigsbys</hi> Coffee-house behind the <hi>Royal Exchange.</hi>
+               </item>
+               <item>
+                  <hi>Jacks</hi> Coffee-house in <hi>Swithens Alley</hi> by <hi>Exchange.</hi>
+               </item>
+               <item>
+                  <hi>Joes</hi> Coffee-house in <hi>Swithens Alley.</hi>
+               </item>
+               <item>
+                  <hi>Peters</hi> Coffee-house the corner of <hi>Finchlane▪</hi>
+               </item>
+               <item>Mr <hi>Frut<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rer, Exchange</hi> Coffeehouse <hi>Cornhil.</hi>
+               </item>
+               <item>Mr <hi>Jacks</hi> at <hi>Coles</hi> Coffee-house, <hi>Birchinlane</hi>
+               </item>
+               <item>Mr <hi>Tingnels Londonstone</hi> Coffee-house, <hi>Cannonst<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>▪</hi>
+               </item>
+               <item>Mr <hi>Giggs</hi> Garter Coffee-house by Custom-house.</item>
+               <item>
+                  <hi>Tarrants</hi> Coffee-house within <hi>Aldgate.</hi>
+               </item>
+               <item>
+                  <hi>Jonathans</hi> Coffeehouse behind <hi>Royal Exchange▪</hi>
+               </item>
+               <item>
+                  <hi>Walsals</hi> Coffee-house in <hi>Bartholomewlane.</hi>
+               </item>
+               <item>
+                  <hi>Rows</hi> Coffee-house at the Bridge Foot, <hi>Southwark.</hi>
+               </item>
+               <item>Mr <hi>Iv<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Scotch</hi> Coffee-house, <hi>Bartholomewlane▪</hi>
+               </item>
+               <item>Mr <hi>Duncalfs</hi> Garter Coffeehouse by <hi>Ro. Exchange</hi>
+               </item>
+               <item>Mr <hi>Squires</hi> Coffeehouse in <hi>Fullers Rents▪</hi>
+               </item>
+               <item>Mr <hi>Shank, Nandoes</hi> Coffee House near the <hi>Temple.</hi>
+               </item>
+               <item>Mr <hi>Sheffields, Temple</hi> Coffee-house, <hi>Fleetstreet</hi>
+               </item>
+               <item>Mr <hi>Hinton</hi> at the 3 Conys <hi>Grocers Alley.</hi>
+               </item>
+               <item>Mr <hi>Browns</hi> Coffeehouse, <hi>Bellyard, Templebar</hi>
+               </item>
+               <item>Mrs <hi>Wells</hi> Coffee house at <hi>Scotland Yard.</hi>
+               </item>
+               <item>Mr <hi>Mitcheis, Rainbow</hi> Coffee-house by <hi>Northum<g ref="char:EOLhyphen"/>berlandhouse</hi>
+               </item>
+               <item>
+                  <hi>Young Mans</hi> Coffee-house at <hi>Charing Cross.</hi>
+               </item>
+               <item>Mrs <hi>Potters</hi> Coffee-house near St <hi>James</hi>'s<hi>-house</hi>
+               </item>
+               <item>
+                  <hi>Robinsons</hi> Coffee-house in <hi>Berry-street</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
